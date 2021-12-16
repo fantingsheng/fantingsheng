@@ -3,6 +3,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 
 ![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
+
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
+
 <!--
 **fantingsheng/fantingsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
