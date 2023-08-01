@@ -2,7 +2,7 @@
 
 十年前端开发知识沉淀：[https://spacexcode.com](https://spacexcode.com)
 
-![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
+![](https://github-readme-stats.vercel.app/api?username=fantingsheng&show_icons=true)
 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
