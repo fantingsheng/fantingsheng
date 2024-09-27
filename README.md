@@ -4,9 +4,9 @@
 
 写了几个工具：
 - 🔭 [图片套壳美化](https://spacexcode.com/screenshot)
-- 🔭 [封面图生成](https://spacexcode.com/coverview)
-- 🔭 [文字卡片生成](https://spacexcode.com/memocard)
-- 🔭 [代码图片生成](https://spacexcode.com/codeimage)
+- 🌱 [封面图生成](https://spacexcode.com/coverview)
+- 📫 [文字卡片生成](https://spacexcode.com/memocard)
+- ⚡ [代码图片生成](https://spacexcode.com/codeimage)
 
 ![](https://github-readme-stats.vercel.app/api?username=fantingsheng&show_icons=true)
 
