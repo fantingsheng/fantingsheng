@@ -16,6 +16,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <!--
 **fantingsheng/fantingsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
